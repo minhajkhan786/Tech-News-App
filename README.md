@@ -27,12 +27,7 @@ Download Here : https://drive.google.com/file/d/1cj2IMEc7nmJQuzAMwWHT4K_UmoVFmA-
 
 Explore MIT News:
 
-Install the app and explore MIT News articles.
-
-Screenshot: 
-
-
-![IMG_20240711_103754](https://github.com/mrabdulla3/Hacker_News/assets/129673628/a44053d7-910e-45ef-87d7-6e3f78413374)
+Install the app and explore MIT News articles
 
 
 
